@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Main
+public class questao2
 {
 	public static void main(String[] args) {
 		 Scanner inputN = new Scanner ( System.in );
